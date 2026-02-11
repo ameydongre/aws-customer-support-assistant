@@ -150,8 +150,8 @@ MIT License
 Built as part of AWS Bedrock learning project.
 
 **Connect with me:**
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
+- LinkedIn: amey-dongre
+- GitHub: ameydongre
 
 ---
 
